@@ -1,6 +1,6 @@
 {
   "name": "aei-launcher",
-  "version": "0.9.8",
+  "version": "0.9.0",
   "description": "An Empire Inherited Launcher",
   "main": "main.js",
   "scripts": {
